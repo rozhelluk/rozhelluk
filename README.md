@@ -12,3 +12,4 @@ rozhelluk = Programmer()
 if rozhelluk.isalive:
     rozhelluk.write_code()
 ```
+![snake gif](https://github.com/rozhelluk/rozhelluk/blob/output/github-contribution-grid-snake-dark.svg)
