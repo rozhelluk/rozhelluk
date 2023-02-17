@@ -23,4 +23,4 @@ if rozhelluk.isAlive:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rozhelluk&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rozhelluk&theme=dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Snake Graph](https://gist.githubusercontent.com/rozhelluk/3e98e0138ac9fe0b509065975b1a2d8f/raw/github-snake.svg)](https://github.com/rozhelluk)
+[![](https://gist.githubusercontent.com/rozhelluk/3e98e0138ac9fe0b509065975b1a2d8f/raw/github-snake.svg)](https://github.com/rozhelluk)
