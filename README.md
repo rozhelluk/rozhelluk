@@ -2,20 +2,17 @@
 
 ```python
 class Programmer:
-    def __init__(self, language: str, isAlive: bool) -> None:
+    def __init__(self, programming_language: str, is_alive: bool) -> None:
+        self.programming_language = programming_language
+        self.is_alive = is_alive
 
-        self.language = language
-        self.isAlive = isAlive
-
-    def write_code(self):
-
+    def write_code(self) -> NotImplementedType:
         return NotImplemented
 
 
 rozhelluk = Programmer('Python', True)
 
-
-if rozhelluk.isAlive:
+if rozhelluk.is_alive:
     rozhelluk.write_code()
 ```
 
