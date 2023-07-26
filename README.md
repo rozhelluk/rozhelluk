@@ -12,8 +12,7 @@ class Programmer:
 
 rozhelluk = Programmer('Python', True)
 
-if rozhelluk.is_alive:
-    rozhelluk.write_code()
+rozhelluk.write_code() if rozhelluk.is_alive else ...
 ```
 
 <!-- ![snake gif](https://github.com/rozhelluk/rozhelluk/blob/output/github-contribution-grid-snake-dark.svg)
